@@ -1,0 +1,21 @@
+id;name;text
+1;Alexander Petrov;Senior .NET Developer with 7 years experience in C#, ASP.NET Core, Microservices, Azure, Docker and SQL Server
+2;Georgi Ivanov;Junior .NET Developer with 1.5 years experience in C#, ASP.NET Core and SQL Server
+3;Nikolay Dimitrov;Python Developer with Django, FastAPI, Machine Learning and AWS experience
+4;Martina Petrova;Mid .NET Developer with 4 years experience in C#, ASP.NET Core, REST APIs, Docker and SQL Server
+5;Petar Dimitrov;Java Backend Developer with Spring Boot, Microservices, Kafka and PostgreSQL experience
+6;Elena Nikolova;Frontend Developer with React, TypeScript, JavaScript, HTML, CSS and REST APIs experience
+7;Viktor Iliev;DevOps Engineer with Docker, Kubernetes, Azure, CI/CD pipelines and Linux administration
+8;Maria Georgieva;QA Automation Engineer with Selenium, Cypress, API testing, SQL and Python scripting
+9;Desislava Ivanova;Product Owner with Agile, Scrum, Jira, stakeholder management and software delivery experience
+10;Kaloyan Vasilev;Data Analyst with Python, SQL, Power BI, pandas and data visualization experience
+11;Ivan Petrov;Senior Python Developer with 7 years of experience in backend development, machine learning, TensorFlow, PyTorch, SQL, Docker, AWS, REST APIs and large-scale data processing systems.
+12;Maria Ivanova;Junior Frontend Developer experienced with React, JavaScript, HTML, CSS, responsive web design, Git, Figma and UI/UX implementation for web applications.
+13;Georgi Dimitrov;DevOps Engineer with experience in Docker, Kubernetes, Linux administration, Terraform, Azure cloud services, CI/CD pipelines and infrastructure automation.
+14;Petya Nikolova;QA Automation Engineer skilled in Selenium, Cypress, Python, API testing, regression testing, Agile methodologies, Jira and software quality assurance.
+15;Nikolay Georgiev;Backend Java Developer with experience in Spring Boot, microservices architecture, MySQL databases, REST APIs, Kafka and Docker containerization.
+16;Elena Petrova;Data Analyst experienced in SQL, Power BI, Tableau, Excel, Python Pandas and business intelligence reporting dashboards for data-driven decision making.
+17;Viktor Angelov;Mobile Developer specialized in Android development using Kotlin and Java, Firebase integration, REST APIs and mobile UI/UX optimization.
+18;Stefan Kolev;Cybersecurity Specialist with experience in penetration testing, Linux systems, firewalls, network security, vulnerability assessment and security monitoring tools.
+19;Daniela Hristova;Project Manager experienced in Agile and Scrum methodologies, stakeholder communication, Jira project tracking, team coordination and software delivery planning.
+20;Kalin Vasilev;Machine Learning Engineer with strong experience in Python, Scikit-learn, NLP, deep learning, TensorFlow, AWS cloud deployment and AI model optimization.
